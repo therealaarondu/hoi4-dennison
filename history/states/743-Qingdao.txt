@@ -1,0 +1,29 @@
+state=
+{
+	id=743
+	name="STATE_743"
+	manpower = 3850000
+	state_category = large_town
+	
+	
+	history=
+	{
+		owner = adu
+		victory_points = {
+			10000 5 
+		}
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 10
+			air_base = 10
+			10000 = {
+				naval_base = 10
+				coastal_bunker = 10
+				bunker = 10
+			}
+		}
+	}
+	provinces={
+		10000
+	}
+}

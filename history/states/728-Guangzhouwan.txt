@@ -1,0 +1,21 @@
+state={
+	id=728
+	name="STATE_728"
+	manpower = 2000000
+	
+	state_category = large_city
+	
+	history={
+		owner = ADU
+		buildings = {
+			infrastructure = 10
+			11981 = {
+				naval_base = 1
+			}
+		}
+	}
+	
+	provinces={
+		11981 
+	}
+}
