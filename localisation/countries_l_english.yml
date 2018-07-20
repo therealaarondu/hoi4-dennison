@@ -1355,14 +1355,14 @@
  MAN_neutrality_ADJ:0 "Manchu"
  MAN_communism_ADJ:0 "Manchu"
  
- DNC_fascism:0
- DNC_fascism_DEF:1
- DNC_democratic:0
- DNC_democratic_DEF:1
- DNC_neutrality:0
- DNC_neutrality_DEF:1
- DNC_communism:0
- DNC_communism_DEF:1
+ DNC_fascism:0"Dennison"
+ DNC_fascism_DEF:1"Dennison"
+ DNC_democratic:0"Dennison"
+ DNC_democratic_DEF:1"Dennison"
+ DNC_neutrality:0"Dennison"
+ DNC_neutrality_DEF:1"Dennison"
+ DNC_communism:0"Dennison"
+ DNC_communism_DEF:1"Dennison"
  
  ADU_fascism:0"Melon Empire"
  ADU_fascism_DEF:1"the Melon Empire"
