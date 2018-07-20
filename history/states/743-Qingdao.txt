@@ -8,14 +8,15 @@ state=
 	
 	history=
 	{
-		owner = adu
+		owner = ADU
 		victory_points = {
 			10000 5 
 		}
 		buildings = {
 			infrastructure = 10
-			industrial_complex = 10
-			air_base = 10
+			industrial_complex = 20
+			air_base = 20
+			nuclear_reactor = 25
 			10000 = {
 				naval_base = 10
 				coastal_bunker = 10

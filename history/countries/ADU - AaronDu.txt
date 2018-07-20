@@ -1,6 +1,6 @@
-capital = 592
+capital = 743
 
-oob = "DNC_1936"
+oob = "ADU_1936"
 
 #starting tech
 set_technology = {
@@ -44,9 +44,35 @@ set_technology = {
 	formation_flying = 1
 	synth_oil_experiments = 1
 	transport = 1
+	atomic_research = 1
+	nuclear_reactor = 1
+	nukes = 1
 }
 
 set_research_slots = 4
 set_convoys = 400
-set_stability = 0.75
-set_war_support = 0.6
+set_stability = 1
+set_war_support = 1
+
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 98
+		}
+
+		fascism = {
+			popularity = 1
+		}
+		
+		communism = {
+			popularity = 1
+			#banned = no #default is no
+		}
+	}
+	
+	ruling_party = democratic
+	last_election = "1935.10.14"
+	election_frequency = 60
+	elections_allowed = yes
+}
