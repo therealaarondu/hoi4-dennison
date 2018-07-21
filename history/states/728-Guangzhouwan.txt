@@ -1,14 +1,17 @@
 state={
 	id=728
 	name="STATE_728"
-	manpower = 2000000
+	manpower = 4000000
 	
 	state_category = large_city
 	
 	history={
 		owner = ADU
+		add_core_of = ADU
 		buildings = {
+			industrial_complex = 20
 			infrastructure = 10
+			nuclear_reactor = 25
 			11981 = {
 				naval_base = 1
 			}

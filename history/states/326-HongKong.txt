@@ -2,11 +2,12 @@ state=
 {
 	id=326
 	name="STATE_326"
-	manpower = 1143516
+	manpower = 8143516
 	state_category = large_town
 	history=
 	{
 		owner = ADU
+		add_core_of = ADU
 		victory_points = {
 			10062 3 
 		}
@@ -14,6 +15,7 @@ state=
 			infrastructure = 10
 			air_base = 10
 			industrial_complex = 20
+			nuclear_reactor = 25
 			arms_factory = 20
 			10062 = {
 				naval_base = 10
