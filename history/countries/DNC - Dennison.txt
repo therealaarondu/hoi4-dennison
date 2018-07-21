@@ -77,3 +77,101 @@ set_politics = {
 	ruling_party = communism
 	elections_allowed = no
 }
+
+create_field_marshal = {
+	name = "Wesley Chen"
+	picture = "Wesley_Chen.png"
+	traits = { logistics_wizard organizer offensive_doctrine armor_officer }
+	skill = 6
+	attack_skill = 6
+	defense_skill = 4
+	planning_skill = 4
+	logistics_skill = 4
+}
+
+create_field_marshal = {
+	name = "Dennison Chen"
+	picture = "Dennison_Chen.png"
+	traits = { logistics_wizard organizer defensive_doctrine infantry_officer }
+	skill = 5
+	attack_skill = 4
+	defense_skill = 6
+	planning_skill = 4
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Jay Gandhi"
+	picture = "jayG.png"
+	traits = { armor_officer }
+	skill = 5
+
+	attack_skill = 4
+	defense_skill = 4
+	planning_skill = 2
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Artin Mehraban"
+	picture = "Artin.png"
+	traits = { armor_officer }
+	skill = 5
+
+	attack_skill = 2
+	defense_skill = 4
+	planning_skill = 2
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Martin Ssempa"
+	picture = "ssempa.png"
+	traits = { infantry_officer }
+	skill = 3
+
+	attack_skill = 2
+	defense_skill = 4
+	planning_skill = 1
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Aekam (Zarcade61)"
+	picture = "Zarcade61.png"
+	traits = { infantry_officer }
+	skill = 6
+
+	attack_skill = 4
+	defense_skill = 5
+	planning_skill = 2
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Karate Steven Ung"
+	picture = "stevenung.png"
+	traits = { infantry_officer  }
+	
+	skill = 4
+	
+	attack_skill = 4
+	defense_skill = 4
+	planning_skill = 2
+	logistics_skill = 2
+}
+
+create_navy_leader = {
+	name = "Cambridge Triple Decker"
+	picture = "CambridgeTripleDecker.png"
+	traits = { fly_swatter air_controller }
+	skill = 4
+}
+
+
+create_navy_leader = {
+	name = "Steven Ung's Unicorn"
+	picture = "ruffyruffle.png"
+	traits = { seawolf superior_tactician spotter ironside fly_swatter air_controller }
+	skill = 8
+}
