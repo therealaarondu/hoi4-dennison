@@ -163,8 +163,8 @@ create_corps_commander = {
 
 create_corps_commander = {
 	name = "Josh Peck"
-	picture = {JoshPeck.png}
-	traits = { infantry_officer cautious}
+	picture = { JoshPeck.png }
+	traits = { infantry_officer trait_cautious}
 	
 	skill = 5
 	
