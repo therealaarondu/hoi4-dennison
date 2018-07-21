@@ -536,3 +536,8 @@ DNC = {
 	color = rgb { 255  0  0 }
 	color_ui = rgb { 255  0  0 }
 }
+
+ADU = {
+	color = { 0  162  232 }
+	color_ui = { 0  200  232 }
+}
