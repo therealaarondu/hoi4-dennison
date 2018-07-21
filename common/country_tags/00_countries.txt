@@ -114,5 +114,3 @@ MAN = "countries/Manchukou.txt"
 
 DNC = "countries/Dennison.txt"
 ADU = "countries/AaronDu.txt"
-JIA = "countries/Jiang.txt"
-TAI = "countries/Taiwan.txt"
