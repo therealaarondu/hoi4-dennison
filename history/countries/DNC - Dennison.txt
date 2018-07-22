@@ -81,6 +81,14 @@ set_politics = {
 	elections_allowed = no
 }
 
+create_country_leader = {
+	name = "Dennison Chen"
+	desc = "POLITICS_DENNISON_CHEN_DESC"
+	picture = "Dennison_Chen.png"
+	expire = "1987.1.1"
+	ideology = leninism
+}
+
 create_field_marshal = {
 	name = "Wesley Chen"
 	picture = "Wesley_Chen.png"
