@@ -1,7 +1,7 @@
 state= {
 	id=593
 	name="STATE_593"
-	manpower = 38280000
+	manpower = 21440000
 	state_category = metrolopolis
 	resources={
 		tungsten=15 # was: 20
